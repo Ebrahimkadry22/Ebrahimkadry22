@@ -59,3 +59,13 @@ Focused on responsive UI and clean user experience.
 - 📧 Email: elagamby22@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/kadry22  
 - 🧑‍💻 GitHub: https://github.com/Ebrahimkadry22
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ebrahimkadry22&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ebrahimkadry22" />
+</p>
