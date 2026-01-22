@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Kadry</h1>
-<h3 align="center">Frontend Developer (React.js)</h3>
+<h3 align="center">Frontend Developer | React.js & Modern Web Apps</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kadry22">
